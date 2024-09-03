@@ -1,6 +1,6 @@
 # 🛠️ xlrsec Tools
 
-This repository is a collection of various scripts, tools, and utilities by m4ll0k designed for security testing and bug bounty hunting. All files are organized within the `xlrsec` directory.
+This repository is a collection of various scripts, tools, and utilities by m4ll0k and me designed for security testing and bug bounty hunting. All files are organized within the `xlrsec` directory.
 
 ## 📁 Contents
 
